@@ -1,6 +1,6 @@
 ## Introduction
 
-The data release (`lexicon.csv') contains a list of 400 noun compounds (such as "business magazine" or "fist fight") that were annotated for sentiment using crowdsourcing as a part of a research project at ETS. A positive/negative/neutral rating for each compound and for each of the words separately is provided. The data was used to study "combinatorics" of sentiment, namely, how sentiment profiles (pos/neg/neu) of single words combine to yield the profile for the compound. The paper describing our approach and results should be cited if this dataset is used:
+The data release (`lexicon.csv`) contains a list of 400 noun compounds (such as "business magazine" or "fist fight") that were annotated for sentiment using crowdsourcing as a part of a research project at ETS. A positive/negative/neutral rating for each compound and for each of the words separately is provided. The data was used to study "combinatorics" of sentiment, namely, how sentiment profiles (pos/neg/neu) of single words combine to yield the profile for the compound. The paper describing our approach and results should be cited if this dataset is used:
 
 
 Beata Beigman Klebanov, Jill Burstein, and Nitin Madnani. 2013. 
